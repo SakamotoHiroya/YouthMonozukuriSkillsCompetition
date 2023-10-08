@@ -1,0 +1,2 @@
+# YouthMonozukuriSkillsCompetition
+第17回若年者ものづくり競技大会電子回路組立職種の金賞獲得時のソースコード
