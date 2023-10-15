@@ -16,8 +16,8 @@
 
 毎年テーマがありますが、今年のテーマはPCとの無線通信でした。
 
-詳しい競技内容は[競技課題](./document/problem.pdf)をご覧ください。
+詳しい競技内容は[競技課題](document/problem.pdf)をご覧ください。
 
-![回路表](./img/circuit_front.JPG)
+![回路表](img/circuit_front.JPG)
 
-![回路表](./img/circuit_back.JPG)
+![回路表](img/circuit_back.JPG)
