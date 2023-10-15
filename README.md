@@ -49,6 +49,7 @@
 - 91行目: `read_analog_value`関
 - 102行目: `read_joystick`関数
 - 103行目: `glcd_cursor`関数
+
 glcdはGraphical Liquid Crystal Displayの略称とのことです。
 
 glcdから始まる関数の命名方法は主催者側のコードに合わせています。
